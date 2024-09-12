@@ -1,1 +1,1 @@
-# dwave-neal
+# tensor-embedding
